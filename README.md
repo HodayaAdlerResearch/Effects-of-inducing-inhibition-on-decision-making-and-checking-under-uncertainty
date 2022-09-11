@@ -1,4 +1,5 @@
 # Effects-of-inducing-inhibition-on-decision-making-and-checking-under-uncertainty
+This is the analysis data and script for research "Effects of inducing inhibition on decision making and checking under uncertainty"
 On this [analysis_script.ipynb](https://github.com/HodayaAdlerResearch/Effects-of-inducing-inhibition-on-decision-making-and-checking-under-uncertainty/blob/main/analysis_script.ipynb), you can see the script with running result
 ## Run on google colab
 This script build to run on google colab. If you want run it localy, go to next pargraph. 

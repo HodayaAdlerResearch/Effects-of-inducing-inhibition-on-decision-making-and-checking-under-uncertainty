@@ -18,5 +18,5 @@ Change the path in the script from drive path to your local path, and drop the c
 
 ## Example of experiment flow
 
-<img width="536" alt="image" src="https://user-images.githubusercontent.com/112691193/190482162-09903f41-8dd0-4d26-bf83-99cfc9137f11.png">
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/112691193/190482475-6f75e67a-d907-4cf0-91d3-97c60a6fd280.png">
 
